@@ -41,9 +41,7 @@ import { PressKit } from "../pages/Mart/PressKit";
 import { Design } from "../pages/Mart/Design";
 import { Marketing } from "../pages/Mart/Marketing";
 import { Advertisement } from "../pages/Mart/Advertisement";
-import { ReturnList } from "../pages/shared/ReturnList";
-import { ReturnDetails } from "../pages/shared/ReturnDetails";
-import { Return } from "../pages/user/Return";
+
 
 export const router = createBrowserRouter([
   {
